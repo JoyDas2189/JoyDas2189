@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/joe.das.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joe.das.21" height="30" width="40" /></a>
-<a href="https://instagram.com/onii_chan_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onii_chan_00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joy das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy das" height="30" width="40" /></a>
+<a href="https://fb.com/joe.das.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joe.das.21" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/_onii_chan_00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onii_chan_00" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joy-das-4b8b37283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy das" height="30" width="40" /></a>
 </p>
 </p>
 
